@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Charani Sri Veerla
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Charani Sri Veerla
 ==========================================================================================================================================
 
-CS Grad at UAB
+Master's in Computer Science & CYber Security Analytics at University of Alabama at Birmingham
 --------------
 
 * 🌍  I'm based in Birmingham, AL, United States
